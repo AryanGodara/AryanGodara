@@ -5,17 +5,6 @@
 - 💞️ I’m looking to collaborate on some good open source projects.  
 - 📫 You can reach me at my email: aryangodara03@gmail.com (I reply within a few hours at max)  
 
-# Profile Stats
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanGodara&count_private=true))
-
-# Some Repositories
-
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AryanGodara&repo=DSA_Codes)](https://github.com/AryanGodara/DSA_Codes)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AryanGodara&repo=DevSearch_Django_WebApp)](https://github.com/AryanGodara/DevSearch_Django_WebApp)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AryanGodara&repo=http-client-golang)](https://github.com/AryanGodara/http-client-golang)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=AryanGodara&repo=Studybud_Django_WebApp)](https://github.com/AryanGodara/Studybud_Django_WebApp)
-
-# Coding Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGodara)](https://github.com/AryanGodara/github-readme-stats)
