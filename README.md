@@ -6,5 +6,8 @@
 - 📫 You can reach me at my email: aryangodara03@gmail.com (I reply within a few hours at max)  
 
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanGodara&count_private=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGodara)](https://github.com/AryanGodara/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGodara&layout=compact&theme=dark&hide_border=true)
+
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=AryanGodara&count_private=true&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AryanGodara)](https://github.com/AryanGodara/github-profile-trophy)
