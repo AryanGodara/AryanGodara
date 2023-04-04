@@ -1,7 +1,3 @@
-<p><em>Software Engineer at <a href="https://ultraviolet.rs/">Ultraviolet  
-<br/>
-<br/>
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryangodara&theme=dark&background=000000)
 <br/>
 
